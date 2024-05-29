@@ -34,4 +34,4 @@ REDDOT is a comprehensive application designed for a book publishing company. Ut
 
 ## Contact
 
-For questions or support, contact [your-email@example.com].
+For questions or support, contact ermsapp@gmail.com
